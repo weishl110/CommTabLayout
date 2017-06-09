@@ -1,6 +1,13 @@
 
 ![image](https://github.com/weishl110/CommTabLayout/raw/master/image/screen.gif)
 
+依赖配置
+APP gradle
+
+ 	compile 'com.github.weishl110:CommTabLayout:1.0.0'
+project gradle
+
+	maven { url 'https://jitpack.io' }
 #CommTabLayout
 有不足之地，欢迎指点！
 
